@@ -1,7 +1,1 @@
-## Hey! I'm Patrick
-
-<div align='center'>
-  <a href="https://github.com/patrickacioli">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=patrickacioli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickacioli&layout=compact&langs_count=7&theme=tokyonight&count_private=true"/>
-</div>
+Bachelor's degree in Mechanical Engineering and MBA in Software Engineering, more than eight years of experience throughout the entire software life cycle; from conception to delivery. I was responsible for leading teams with 5 to 10 members, delivering several valuable products in the iGaming industry; attracting tens of thousands of users.
